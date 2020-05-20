@@ -12,4 +12,7 @@ dependencies:
   - bokeh
   - dask
   - bqplot
-
+  - ipywidgets
+  - scipy
+  - statsmodels
+  
